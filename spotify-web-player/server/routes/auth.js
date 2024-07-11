@@ -12,9 +12,9 @@ function generateRandomString(length) {
   return text;
 }
 
-const spotify_client_id = '52a0b98e35e5408a8bb4e4c877109c92';  // Replace with your actual client ID
+const spotify_client_id = 'Replace with your actual client ID';  
 const redirect_uri = 'http://localhost:5000/auth/callback';  // Make sure this matches registered URI
-const spotify_client_secret = '8db4492d0cf141cd8118094787d3a003';
+const spotify_client_secret = 'Replace with your actual client secret';
 
 
 
